@@ -1,0 +1,1 @@
+The folder 'archived on CRAN' are versions that were thoroughly bug- and performance checked prior to uploading them to CRAN, and will generally have fewer bugs than the intermediate beta versions in the 'non-CRAN' folder. 
