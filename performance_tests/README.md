@@ -1,0 +1,3 @@
+These compressed Rdata files contain the results from performance tests prior to each versions release on CRAN. They are the output from `PedCompare()` and later `EstConf()` on simulated data using the three pedigrees described in Huisman, 2017, Mol Ecol, for a range of parameter combinations (which vary somewhat between versions). 
+
+The data is stored as 12-dimensional arrays, with the dimnames specifiying the parameter values. 
