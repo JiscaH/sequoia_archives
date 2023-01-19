@@ -13,7 +13,9 @@ In addition the source code and a windows binary (compiled under a then-recent v
 
 | Version | Release date | on CRAN  | New/Fix:\*  |
 |:---|:---|:---|:---|
-| **2.3.4** | **2021-05-15**  | Y   | |
+| **2.4.1** | **2023-01-08**  | Y   | |
+| **2.3.5** | **2021-05-22**  | Y   | |
+| 2.3.4 | 2021-05-15  | Y   | |
 | 2.3.3  | 2021-04-30  | Y  |   | 
 | 2.3.2  | 2021-04-29  | Y  |   |
 | 2.3.0  | 2021-03-26  | N  |   |
